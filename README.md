@@ -1,11 +1,11 @@
 # Github大全
 
+快速学会使用Github、Github的应用领域、Github遇到的坑，与君共勉！
+
 <div align="center">
     <img src="https://www.easyicon.net/api/resizeApi.php?id=1074891&size=128" width="128px">
     <br>
 </div>
-
-快速学会使用Github、Github的应用领域、Github遇到的坑，与君共勉！
 
 <table style="border:{1px solid blue};text-align:center;background-color:aqua">
     <thead>
