@@ -4,8 +4,9 @@
 <table style="border:{1px solid blue};text-align:center;background-color:aqua">
     <thead>
         <tr>
-            <th>教程标题</th>
-            <th>主要内容</th>
+            <th>标题</th>
+            <th>内容</th>
+            <th>链接</th>
         </tr>
     </thead>
     <tbody>
