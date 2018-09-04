@@ -18,12 +18,12 @@
         </tr>
         <tr>
             <td>Github基础</td>
-            <td>Github的<strong>基本语法</strong>，快速上手Git，Markdown的基本语法。</td>
+            <td>Github的<strong>基本语法</strong>，快速上手<strong>Git</strong>，Markdown的基本语法</td>
             <td>Github入门</td>
         </tr>
         <tr>
             <td>Github高阶</td>
-            <td>Github<strong>Pages</strong>的使用，VS+Github做好项目的版本控制。</td>
+            <td>Github<strong>Pages</strong>的搭建及使用，VS+Github做好项目的版本控制。VS+Github做好项目的持续集成（CI）</td>
             <td>Github进阶</td>
         </tr>
         <tr>
@@ -43,6 +43,7 @@
 </div>
 
 ------------
+
 
 <div align="center">
     <img src="https://www.easyicon.net/api/resizeApi.php?id=1074891&size=128" width="128px">
