@@ -32,9 +32,9 @@
             <td><a href="https://github.com/ckjbug/xiaokui/blob/master/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88%EF%BC%88Github%E5%85%A5%E5%9D%91%EF%BC%89.md">Github进阶</td>
         </tr>
         <tr>
-            <td>Markdown扩展</td>
-            <td>Markdown的<strong>扩展语法</strong>，GitHub徽标、SVG、Font Awesome、emoji等装饰Markdown。</td>
-            <td><a href="https://github.com/ckjbug/xiaokui/blob/master/Markdown%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95.md">Markdown高级</td>
+            <td>Markdown 扩展</td>
+            <td>Markdown的<strong>扩展语法</strong>，使用GitHub徽标、SVG、Font Awesome、emoji等装饰Markdown。</td>
+            <td><a href="https://github.com/ckjbug/xiaokui/blob/master/Markdown%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95.md">Markdown 高级</td>
         </tr>
     </tbody>
 </table>
