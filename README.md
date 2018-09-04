@@ -49,7 +49,3 @@
 
 ------------
 
-<div align="center">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/5888f08bef5540e8a51b443ceb8e1345.jpeg" width = "180" alt="图片名称" />
-    <br>
-</div>
