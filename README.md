@@ -3,7 +3,7 @@
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ |
 | :--------: | :---------: | :---------: | :---------: | :---------: |
-| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| RE [🕸](#-re)| Linux [⌨](#-linux)| Tools [🛠](#-tools)| Shodan [☣](#-shodan)| Forum [👣](#-论坛) |
+| Kali [💖](#-kali-linux) | VPS/VPN [⛩](#-vpsvpn)|Dark Web[🌚](#-dark-web) | Deep Web[🌑](#-deep-web) |Crack [💻](#-crack)| 
  
 <br>
 <div align="center">
