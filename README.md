@@ -24,7 +24,7 @@
         <tr>
             <td>Github高阶</td>
             <td>Github<strong>Pages</strong>的使用，VS+Github做好项目的版本控制。</td>
-            <td>[Github进阶](https://github.com/ckjbug/xiaokui/blob/master/%E7%BB%8F%E9%AA%8C%E4%B9%8B%E8%B0%88%EF%BC%88Github%E5%85%A5%E5%9D%91%EF%BC%89.md)</td>
+            <td>Github进阶</td>
         </tr>
         <tr>
             <td>Markdown扩展</td>
