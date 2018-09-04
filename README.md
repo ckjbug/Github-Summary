@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td>Markdown扩展</td>
-            <td>Markdown的<strong>扩展语法</strong>，使用GitHub徽标、SVG、Font Awesome等装饰Markdown。</td>
+            <td>Markdown的<strong>扩展语法</strong>，GitHub徽标、SVG、Font Awesome、emoji等装饰Markdown。</td>
             <td><a href="https://github.com/ckjbug/xiaokui/blob/master/Markdown%E9%AB%98%E9%98%B6%E8%AF%AD%E6%B3%95.md">Markdown高级</td>
         </tr>
     </tbody>
