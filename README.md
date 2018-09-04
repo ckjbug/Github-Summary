@@ -19,7 +19,7 @@
         <tr>
             <td>走进Github</td>
             <td>Github是个什么，能做什么，有什么用？</td>
-            <td><a href="">关于Github</td>
+            <td><a href="https://github.com/ckjbug/Github-Summary/blob/master/What%20is%20Github.md">关于Github</td>
         </tr>
         <tr>
             <td>Github基础</td>
