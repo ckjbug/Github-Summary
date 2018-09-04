@@ -42,5 +42,11 @@
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
 </div>
 
+------------
+
+<div align="center">
+    <img src="https://www.easyicon.net/api/resizeApi.php?id=1074891&size=128" width="128px">
+    <br>
+</div>
 
 
