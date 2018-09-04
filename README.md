@@ -41,7 +41,7 @@
 
 <br>
 <div align="center">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/15e488b2232643b9ad7eb10fb4810b81.jpeg" width = "128" alt="图片名称" />
+    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/5888f08bef5540e8a51b443ceb8e1345.jpeg" width = "180" alt="图片名称" />
     <br>
     <a href="Asciinema.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a>
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
