@@ -23,7 +23,7 @@
         </tr>
         <tr>
             <td>Github高阶</td>
-            <td>Github<strong>Pages</strong>的搭建及使用，VS+Github做好项目的版本控制和项目的持续集成（CI）</td>
+            <td>Github<strong>Pages</strong>的搭建及使用，VS+Github做好项目的版本控制和持续集成（CI）</td>
             <td>Github进阶</td>
         </tr>
         <tr>
