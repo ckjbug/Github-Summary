@@ -5,5 +5,7 @@
     <br>
 </div>
 
-### [官网帮助文档](https://help.github.com/)
+### 官网帮助文档
+
+[GitHub Help](https://help.github.com/)
 
