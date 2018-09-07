@@ -24,7 +24,7 @@
         <tr>
             <td>Github基础</td>
             <td>Github的<strong>基本语法</strong>，快速上手<strong>Git</strong>，Markdown的基本语法</td>
-            <td><a href="">Github入门</td>
+            <td><a href="https://github.com/ckjbug/Github-Summary/blob/master/Github%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B.md">Github入门</td>
         </tr>
         <tr>
             <td>Github高阶</td>
