@@ -7,7 +7,7 @@
 
 ### 官网帮助文档
 
-- [GitHub帮助] （https://help.github.com/）
+- [GitHub帮助](https://help.github.com/)
 - [Github-Hello World](https://guides.github.com/activities/hello-world/)
 
 ### 相关学习网站
