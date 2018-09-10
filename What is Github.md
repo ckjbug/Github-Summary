@@ -18,7 +18,8 @@
 3. [在GITHUB中发现语言的小地方-Git Hut](https://githut.info/)
 4. [发现您在GitHub上的排名-Git Awards](http://git-awards.com)
 5. [GitHub开发者-Githuber](https://githuber.cn/)
-6. [Github 每日 Trending](https://github.com/trending)
+6. [Github 可以项目每日排行-Trending](https://github.com/trending)
+7. [](d)
 
 <div align="center">
     <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "300" alt="图片名称" />
