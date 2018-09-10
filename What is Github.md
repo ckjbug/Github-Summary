@@ -1,6 +1,7 @@
 ## Github是个什么，能做什么，有什么用？
+
 <div align="center">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "300" alt="图片名称" />
+    <img src="https://octodex.github.com/images/collabocats.jpg" width = "280" alt="图片名称" />
     <br>
 </div>
 
@@ -19,6 +20,6 @@
 5. [GitHub开发者-Githuber](https://githuber.cn/)
 
 <div align="center">
-    <img src="https://octodex.github.com/images/collabocats.jpg" width = "180" alt="图片名称" />
+    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "300" alt="图片名称" />
     <br>
 </div>
