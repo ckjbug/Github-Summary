@@ -1,4 +1,4 @@
-## Github是个什么，能做什么，有什么用？
+## Github是个什么？能做什么？有什么用？
 
 <div align="center">
     <img src="https://octodex.github.com/images/collabocats.jpg" width = "280" alt="图片名称" />
