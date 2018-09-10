@@ -9,10 +9,6 @@
 
 - [GitHub Help](https://help.github.com/)
 
-<div align="center">
-    <img src="https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png" width="800px">
-    <br>
-</div>
 
 
 ### 相关学习网站
@@ -25,3 +21,9 @@
 - [学习Git的资源](http://try.github.io/)
 
 _______
+
+
+<div align="center">
+    <img src="https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png" width="800px">
+    <br>
+</div>
