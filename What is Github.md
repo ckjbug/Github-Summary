@@ -19,6 +19,6 @@
 5. [GitHub开发者-Githuber](https://githuber.cn/)
 
 <div align="center">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/15e488b2232643b9ad7eb10fb4810b81.jpeg" width = "180" alt="图片名称" />
+    <img src="https://octodex.github.com/images/collabocats.jpg" width = "180" alt="图片名称" />
     <br>
 </div>
