@@ -22,6 +22,7 @@ GitHub是一个面向开源软件项目的托管平台，因为只支持git 作�
 知乎上有很多关于Github的文章和话题：
 - [如何使用 GitHub？](https://www.zhihu.com/question/20070065/answer/415539043)
 - [为什么程序员们愿意在GitHub上开源自己的成果给别人免费使用和学习？](https://www.zhihu.com/question/269033309/answer/369190698)
+
 .....
 
 ### 一些好玩的Github相关项目和网站。
@@ -32,7 +33,7 @@ GitHub是一个面向开源软件项目的托管平台，因为只支持git 作�
 4. [发现您在GitHub上的排名-Git Awards](http://git-awards.com)
 5. [GitHub开发者-Githuber](https://githuber.cn/)
 6. [Github 可以项目每日排行-Trending](https://github.com/trending)
-7. [](d)
+7. [...]()
 
 <div align="center">
     <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "300" alt="图片名称" />
