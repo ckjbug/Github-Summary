@@ -47,7 +47,7 @@
     <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
 </div>
 
-------------
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
 各取所需，各尽所能。
 
@@ -56,7 +56,9 @@
 
 
 ### LICENSE
-------------
+
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
+
 MIT
 
 [![CC0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
