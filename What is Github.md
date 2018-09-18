@@ -33,7 +33,7 @@ GitHub是一个面向开源软件项目的托管平台，因为只支持git 作�
 4. [发现您在GitHub上的排名-Git Awards](http://git-awards.com)
 5. [GitHub开发者-Githuber](https://githuber.cn/)
 6. [Github 可以项目每日排行-Trending](https://github.com/trending)
-7. [...]()
+7. [Github年度项目、人员和团队](https://octoverse.github.com/)
 
 <div align="center">
     <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "300" alt="图片名称" />
