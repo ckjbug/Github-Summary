@@ -20,6 +20,7 @@ GitHub是一个面向开源软件项目的托管平台，因为只支持git 作�
 [Git的发展史](https://www.atlassian.com/git/articles/10-years-of-git)
 
 知乎上有很多关于Github的文章和话题：
+- [GitHub官方指南](https://guides.github.com/)
 - [如何使用 GitHub？](https://www.zhihu.com/question/20070065/answer/415539043)
 - [为什么程序员们愿意在GitHub上开源自己的成果给别人免费使用和学习？](https://www.zhihu.com/question/269033309/answer/369190698)
 
