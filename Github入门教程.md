@@ -18,6 +18,8 @@
 - [Git-it](http://jlord.us/git-it/)
 - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 - [学习Git的资源](http://try.github.io/)
+- [An interactive git visualization to challenge and educate!](https://learngitbranching.js.org/?demo)
+- [廖雪峰的官方教程Git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 _______
 
