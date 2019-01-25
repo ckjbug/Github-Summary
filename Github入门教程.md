@@ -20,6 +20,9 @@
 - [学习Git的资源](http://try.github.io/)
 - [An interactive git visualization to challenge and educate!](https://learngitbranching.js.org/?demo)
 - [廖雪峰的官方教程Git](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [GitHub 漫游指南 a Chinese ebook](https://github.com/phodal/github)
+
+
 
 _______
 
