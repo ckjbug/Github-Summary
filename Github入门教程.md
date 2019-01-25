@@ -12,7 +12,7 @@
 
 ### 相关学习网站
 
-英语不好的童鞋可以用谷歌浏览器翻译后学习，建议看英文版，毕竟有些词汇啥的翻译不是很准确。
+英语不好的童鞋可以用谷歌浏览器翻译后学习，建议看英文版，毕竟有些词汇啥的翻译不是很准确。下面的教程都很详细，随便择一篇学习即可。
 
 - [GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/)
 - [Git-it](http://jlord.us/git-it/)
