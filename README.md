@@ -3,9 +3,12 @@
 🐾快速学会使用Github、Github的应用领域、Github遇到的坑，与君共勉！
 
 <div align="center">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/6906e63faf44488cbb4071954a4244d3.jpeg" width="300px">
+    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "360" alt="图片名称" />
     <br>
+    <a href="Asciinema.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a>
+    <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
 </div>
+
 
 <table style="border:{1px solid blue};text-align:center;background-color:aqua">
     <thead>
@@ -42,12 +45,9 @@
 </table>
 
 <br>
-<div align="center">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20180522/a8226f65e6df4649a4df44d335c4f059.jpeg" width = "360" alt="图片名称" />
-    <br>
-    <a href="Asciinema.md"> <img src="https://img.shields.io/badge/>-group-4ab8a1.svg"></a>
-    <a href="https://legacy.gitbook.com/@wizardforcel"> <img src="https://img.shields.io/badge/_-gitbook-4ab8a1.svg"></a> 
-</div>
+
+
+
 
 ![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
