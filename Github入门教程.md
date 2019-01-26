@@ -12,7 +12,7 @@
 
 ##### GitHub主页
 
-![github](C:\Users\Administrator\Desktop\Github-Summary\img\github.png)
+![github](https://raw.githubusercontent.com/ckjbug/Github-Summary/master/img/github.png)
 
 1. **Overview**：概述，整个GitHub仓库的概述页面。
 2. **Repositories**：存储库，显示当前用户自己建立和Fork分支下来的仓库列表。
@@ -30,11 +30,11 @@
 
 
 
-![github2](C:\Users\Administrator\Desktop\Github-Summary\img\github2.png)
+![github2](https://raw.githubusercontent.com/ckjbug/Github-Summary/master/img/github2.png)
 
 
 
-![github1](C:\Users\Administrator\Desktop\Github-Summary\img\github1.png)
+![github1](https://raw.githubusercontent.com/ckjbug/Github-Summary/master/img/github1.png)
 
 
 
@@ -42,7 +42,7 @@
 
 ##### GitHub仓库
 
-![GitHubSite](C:\Users\Administrator\Desktop\Github-Summary\img\GitHubSite.png)
+![GitHubSite](https://raw.githubusercontent.com/ckjbug/Github-Summary/master/img/GitHubSite.png)
 
 1. **Code**：存放源代码和文件的地方，底下显示README.md的内容。
 2. **Issues**：可以在这里为一些开源项目中提出一些问题和建议、代码中的Bug等
